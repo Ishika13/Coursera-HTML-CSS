@@ -1,2 +1,2 @@
 # Coursera 
-Complete project of Module 5 from the coursera course - HITM, CSS and JavaScript for beginners.
+Complete project of Module 5 from the coursera course - HTML, CSS and JavaScript for beginners.
